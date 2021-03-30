@@ -1,5 +1,5 @@
 # OrderBook
-Order Book Fast Algorithm develop by Alan Z. Valencia
+Order Book Fast Algorithm developed by Alan Z. Valencia
 
 This is an Order Book that I designed to run fast and efficient.
 
