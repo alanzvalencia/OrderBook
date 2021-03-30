@@ -1,6 +1,8 @@
 # OrderBook
 Order Book Fast Algorithm developed by Alan Z. Valencia
 
+Order Book Algoritms are being used by Financial Platforms in Stock Exhanges
+
 If you have any questions, you can email me at alan.valencia@icon.ph
 
 This is an Order Book that I designed to run fast and efficient.
