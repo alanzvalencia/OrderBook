@@ -5,7 +5,7 @@ This is an Order Book that I designed to run fast and efficient.
 
 You can download and use it freely.
 
-The source code can run in any Linux and Windows OS.
+The source code can be built and run in any Linux and Windows OS.
 
 I've initially tested it to run in Linux.
 
