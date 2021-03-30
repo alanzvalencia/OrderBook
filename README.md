@@ -1,6 +1,8 @@
 # OrderBook
 Order Book Fast Algorithm developed by Alan Z. Valencia
 
+If you have any questions, you can email me at alan.valencia@icon.ph
+
 This is an Order Book that I designed to run fast and efficient.
 
 You can download and use it freely.
