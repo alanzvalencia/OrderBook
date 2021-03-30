@@ -24,5 +24,6 @@ g++
 In Ubuntu Linux run the following to get g++:
 
 sudo apt-get update
+
 sudo apt-get install g++
 
